@@ -1,0 +1,43 @@
+h1{
+    color: blue;
+}
+
+table{
+ text-align: center;
+ height: 20px;
+ 
+}
+hr{
+    background-color: blue;
+    height: 5px;
+}
+section{
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+    color: black;
+    
+
+}
+
+#A{
+    color: blue;
+}
+
+#B{
+    background-color: aqua; 
+    text-align: center;
+}
+
+#C{
+    text-align: center;
+    color: blue;
+}
+
+
+
+
+
+
